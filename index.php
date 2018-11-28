@@ -5,12 +5,11 @@
   <meta charset="utf-8">
   <meta name="description" content="WichTech">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>WichTech</title>
-  <link rel="stylesheet" href="assets/css/WichTech.css">
-  <link rel="author" href="Amie Chen for Codrops">
+  <title>Wichtech</title>
+  <link rel="stylesheet" href="assets/css/wichtech.css">
+  <!--Courtesy Amie Chen for Codrops--->
   <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
 </head>
 
 <body>
