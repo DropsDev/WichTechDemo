@@ -38,7 +38,7 @@
           </div>
         </div>
         <div class="episode__detail">
-          <a href="javascript:void(0)" class="episode__title">
+          <a href="http://35.178.251.61/invoicing/#/login" class="episode__title">
             <h4>Agents</h4>
           </a>
           <p class="episode__description">This represents, partners of Wichtech already managed by representatives in typically in upcountry
@@ -55,7 +55,7 @@
           </div>
         </div>
         <div class="episode__detail">
-          <a href="javascript:void(0)" class="episode__title">
+          <a href="http://35.178.251.61/invoicing/#/login" class="episode__title">
             <h4>Manager</h4>
           </a>
           <p class="episode__description">This represents, partner of Wichtech that manages a team of agents. These users are usually
@@ -72,7 +72,7 @@
           </div>
         </div>
         <div class="episode__detail">
-          <a href="javascript:void(0)" class="episode__title">
+          <a href="http://35.178.251.61/invoicing/#/admin-login" class="episode__title">
             <h4>Administrator</h4>
           </a>
           <p class="episode__description">This represents, users of the platform that have an serial access to the platform.
